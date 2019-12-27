@@ -119,7 +119,7 @@ p {
 }
 
 .items {
-    height: 1130px;
+
     display: flex;
     justify-content: center;
 }
